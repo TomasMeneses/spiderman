@@ -8,5 +8,10 @@ Página criada para estudo, revisão e aprendizado de conceitos como:
 - SCSS;
 - UI/UX;
 
+### Bibliotecas utilizadas:
+- greensock
+- tilt.js
+- svg inject
+
 ## Disponível em:
 https://spiderman-xi.vercel.app/
